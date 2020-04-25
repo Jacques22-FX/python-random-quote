@@ -1,5 +1,5 @@
   
-def main():
+  def main():
 
   f = open("quotes.txt")
   quotes = f.readlines()
@@ -7,5 +7,5 @@ def main():
 
   print(quotes[4])
 
-if __name__== "__main__":
+  if __name__== "__main__":
   main()
