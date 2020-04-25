@@ -6,6 +6,6 @@ def main():
     
        print(quotes[1])
     
-     f __name__== "__main__":
+f __name__== "__main__":
     
-     main()
+main()
