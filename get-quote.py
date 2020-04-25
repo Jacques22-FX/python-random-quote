@@ -1,4 +1,4 @@
-def main():
+ def main():
     
     f = open("quotes.txt")
     quotes = f.readlines()
@@ -8,4 +8,4 @@ def main():
     
   if __name__== "__main__":
     
-main()
+ main()
