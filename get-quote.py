@@ -7,5 +7,5 @@ def main(Primary):
 
   #print(quotes)
 
-if __Primary__== "__main__":
+if __name__== "__main__":
   main(Primary)
