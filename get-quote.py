@@ -7,5 +7,5 @@ f.close()
 
 print(quotes[0])
 
-if __name__== "Primary":
+if __name__== "f":
   main(Primary)
